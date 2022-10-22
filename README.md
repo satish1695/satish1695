@@ -22,7 +22,7 @@ I am an open-source enthusiast and learner.
 
 - 💬 ask me about anything, i am happy to help;
 
-<img  align="right" alt="GIF" src="https://github.com/ronakr14/ronakr14/blob/main/logos/code.gif?raw=true" style="float:right" width="300" height="220" />
+
 <br>
 
 <h1> Languages,Technologies and Tools:  </h1>
