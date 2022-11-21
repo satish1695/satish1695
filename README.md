@@ -106,7 +106,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 <br/>
 
-[![Ronak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ronakr14&theme=rogue)](https://github.com/satish1695)
+[![Ronak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satish1695&theme=rogue)](https://github.com/satish1695)
 
 
 <br/><br/>
