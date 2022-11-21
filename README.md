@@ -96,7 +96,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
        alt="snake" /></a>
 </div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ronakr14&show_icons=true&theme=gotham" alt="satish1695" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=satish1695&show_icons=true&theme=gotham" alt="satish1695" />
 
 <br>
 
