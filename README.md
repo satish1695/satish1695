@@ -106,11 +106,11 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
   
 <br/>
 
-[![Ronak's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satish1695&theme=rogue)](https://github.com/satish1695)
+[![Satish's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=satish1695&theme=rogue)](https://github.com/satish1695)
 
 
 <br/><br/>
-![Ronak's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=satish1695) 
+![Satish's Github streak stats](https://github-readme-streak-stats.herokuapp.com/?user=satish1695) 
 
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=satish1695)](https://github.com/ryo-ma/github-profile-trophy)
